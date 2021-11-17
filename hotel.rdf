@@ -21,7 +21,7 @@
         <dc:guest>4</dc:guest>
         <dc:description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, velit. Minima ullam eligendi aut nihil asperiores nisi incidunt obcaecati sequi corrupti nemo nostrum sunt, amet corporis? Eum vel necessitatibus ea?    
         </dc:description>
-        <dc:image>https://i.ibb.co/TP4rvZZ/ultra-2.jpg</dc:image>
+        <dc:image>https://i.ibb.co/LY9mFs2/grand-deluxe.jpg</dc:image>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.foyafoya.com/rooms/ultra-superior">
@@ -30,7 +30,7 @@
         <dc:review>5.0</dc:review>
         <dc:guest>5</dc:guest>
         <dc:description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, velit. Minima ullam eligendi aut nihil asperiores nisi incidunt obcaecati sequi corrupti nemo nostrum sunt, amet corporis? Eum vel necessitatibus ea?</dc:description>
-        <dc:image>https://i.ibb.co/vxz2RSt/img-1.jpg</dc:image>
+        <dc:image>https://i.ibb.co/qWwQD9K/ultra.jpg</dc:image>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.foyafoya.com/rooms/classic">
@@ -57,7 +57,7 @@
         <dc:review>4.7</dc:review>
         <dc:guest>2</dc:guest>
         <dc:description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, velit. Minima ullam eligendi aut nihil asperiores nisi incidunt obcaecati sequi corrupti nemo nostrum sunt, amet corporis? Eum vel necessitatibus ea?</dc:description>
-        <dc:image>"https://i.ibb.co/TP4rvZZ/ultra-2.jpg</dc:image>
+        <dc:image>https://i.ibb.co/TP4rvZZ/ultra-2.jpg</dc:image>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.foyafoya.com/rooms/standard">
