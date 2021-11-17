@@ -21,7 +21,7 @@
         <dc:guest>4</dc:guest>
         <dc:description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, velit. Minima ullam eligendi aut nihil asperiores nisi incidunt obcaecati sequi corrupti nemo nostrum sunt, amet corporis? Eum vel necessitatibus ea?    
         </dc:description>
-        <dc:image>https://i.ibb.co/TP4rvZZ/ultra-2.jpg</dc:image>
+        <dc:image>https://i.ibb.co/6wCWJVN/granddeluux.jpg</dc:image>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.foyafoya.com/rooms/ultra-superior">
@@ -30,7 +30,7 @@
         <dc:review>5.0</dc:review>
         <dc:guest>5</dc:guest>
         <dc:description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, velit. Minima ullam eligendi aut nihil asperiores nisi incidunt obcaecati sequi corrupti nemo nostrum sunt, amet corporis? Eum vel necessitatibus ea?</dc:description>
-        <dc:image>https://i.ibb.co/vxz2RSt/img-1.jpg</dc:image>
+        <dc:image>https://i.ibb.co/znxGwz6/ultrasuperior.jpg</dc:image>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.foyafoya.com/rooms/classic">
@@ -39,7 +39,7 @@
         <dc:review>4.7</dc:review>
         <dc:guest>1</dc:guest>
         <dc:description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, velit. Minima ullam eligendi aut nihil asperiores nisi incidunt obcaecati sequi corrupti nemo nostrum sunt, amet corporis? Eum vel necessitatibus ea?</dc:description>
-        <dc:image>https://i.ibb.co/x84qPw7/classic.jpg</dc:image>
+        <dc:image>https://i.ibb.co/vL98g4y/classic.jpg</dc:image>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.foyafoya.com/rooms/suite">
@@ -48,7 +48,7 @@
         <dc:review>4.5</dc:review>
         <dc:guest>3</dc:guest>
         <dc:description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, velit. Minima ullam eligendi aut nihil asperiores nisi incidunt obcaecati sequi corrupti nemo nostrum sunt, amet corporis? Eum vel necessitatibus ea?</dc:description>
-        <dc:image>https://i.ibb.co/4Y71yV8/suit.jpg</dc:image>
+        <dc:image>https://i.ibb.co/mJxFR0C/suit.jpg</dc:image>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.foyafoya.com/rooms/superior">
@@ -57,7 +57,7 @@
         <dc:review>4.7</dc:review>
         <dc:guest>2</dc:guest>
         <dc:description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, velit. Minima ullam eligendi aut nihil asperiores nisi incidunt obcaecati sequi corrupti nemo nostrum sunt, amet corporis? Eum vel necessitatibus ea?</dc:description>
-        <dc:image>"https://i.ibb.co/TP4rvZZ/ultra-2.jpg</dc:image>
+        <dc:image>https://i.ibb.co/zRKKYXJ/grandsuit.jpg</dc:image>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.foyafoya.com/rooms/standard">
@@ -66,7 +66,7 @@
         <dc:review>3.0</dc:review>
         <dc:guest>2</dc:guest>
         <dc:description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, velit. Minima ullam eligendi aut nihil asperiores nisi incidunt obcaecati sequi corrupti nemo nostrum sunt, amet corporis? Eum vel necessitatibus ea?</dc:description>
-        <dc:image>https://i.ibb.co/4Y71yV8/suit.jpg</dc:image>
+        <dc:image>https://i.ibb.co/2qjMRg4/standart.jpg</dc:image>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.foyafoya.com/rooms/deluxe">
@@ -75,7 +75,7 @@
         <dc:review>4.5</dc:review>
         <dc:guest>3</dc:guest>
         <dc:description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, velit. Minima ullam eligendi aut nihil asperiores nisi incidunt obcaecati sequi corrupti nemo nostrum sunt, amet corporis? Eum vel necessitatibus ea?</dc:description>
-        <dc:image>https://i.ibb.co/vmmV9sv/deluxe.jpg</dc:image>
+        <dc:image>https://i.ibb.co/j6sZ4gv/deluxe.jpg</dc:image>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.foyafoya.com/rooms/presidental-suite">
@@ -84,7 +84,7 @@
         <dc:review>4.8</dc:review>
         <dc:guest>5</dc:guest>
         <dc:description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, velit. Minima ullam eligendi aut nihil asperiores nisi incidunt obcaecati sequi corrupti nemo nostrum sunt, amet corporis? Eum vel necessitatibus ea?</dc:description>
-        <dc:image>https://i.ibb.co/1bvqwHq/president-2.jpg</dc:image>
+        <dc:image>https://i.ibb.co/CvgDjNJ/president-2.jpg</dc:image>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.foyafoya.com/rooms/foya-suite">
@@ -93,7 +93,7 @@
         <dc:review>6.0</dc:review>
         <dc:guest>1</dc:guest>
         <dc:description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis, velit. Minima ullam eligendi aut nihil asperiores nisi incidunt obcaecati sequi corrupti nemo nostrum sunt, amet corporis? Eum vel necessitatibus ea?</dc:description>
-        <dc:image>https://i.ibb.co/gmZk1Cq/foya.jpg</dc:image>
+        <dc:image>https://i.ibb.co/b793dBQ/foya.jpg</dc:image>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://www.foyafoya.com/about-us/">
