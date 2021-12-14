@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+    <rdf:Description rdf:about="https://www.POLES.com/">
+        <dc:aset rdf:resource="https://www.POLES.com/menu"/>
+        <dc:aset rdf:resource="https://www.POLES.com/aboutus"/>
+    </rdf:Description>
+
+    
+    <rdf:Description rdf:about="https://www.POLES.com/menu">
+        <dc:pilihan rdf:resource="https://www.POLES.com/menu/makanan" />
+        <dc:pilihan rdf:resource="https://www.POLES.com/menu/minuman" />
+        <dc:pilihan rdf:resource="https://www.POLES.com/menu/Paket" />
+    </rdf:Description>
+
+
+
+    <rdf:Description rdf:about="https://www.POLES.com/menu/makanan">
+        <dc:menu rdf:resource="https://www.POLES.com/menu/makanan/satekambing"/>
+        <dc:menu rdf:resource="https://www.POLES.com/menu/makanan/NasiGoreng"/>
+        <dc:menu rdf:resource="https://www.POLES.com/menu/makanan/Mieaceh"/>
+        <dc:menu rdf:resource="https://www.POLES.com/menu/makanan/ayamgeprek"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.POLES.com/menu/minuman">
+        <dc:menu rdf:resource="https://www.POLES.com/menu/Minuman/Tehmanis"/>
+        <dc:menu rdf:resource="https://www.POLES.com/menu/Minuman/TehTarik"/>
+        <dc:menu rdf:resource="https://www.POLES.com/menu/Minuman/Nutrisari"/>
+        <dc:menu rdf:resource="https://www.POLES.com/menu/Minuman/kopihitam"/>
+    </rdf:Description>
+
+     <rdf:Description rdf:about="https://www.POLES.com/menu/paket">
+        <dc:menu rdf:resource="https://www.POLES.com/menu/paket/paket1"/>
+        <dc:menu rdf:resource="https://www.POLES.com/menu/paket/paket2"/>
+        <dc:menu rdf:resource="https://www.POLES.com/menu/paket/paket3"/>
+        <dc:menu rdf:resource="https://www.POLES.com/menu/paket/paket4"/>
+    </rdf:Description>
+
+
+    <rdf:Description rdf:about="https://www.POLES.com/menu/makanan/satekambing">
+       <dc:nama>Sate Kambing</dc:nama>
+       <dc:harga>Rp 25.000</dc:harga>
+       <dc:review>4.5</dc:review>
+       <dc:reviewer>100</dc:reviewer>
+       <dc:description>Sate yang terbuat dari kambing memiliki bumbu yang sangat lezat, dan memiliki kematengan yang pass
+       </dc:description>
+       <dc:image>https://i.ibb.co/xH5FTJr/dagingsate.jpg</dc:image>
+    </rdf:Description>
+
+     <rdf:Description rdf:about="https://www.POLES.com/menu/makanan/NasiGoreng">
+       <dc:nama>Nasi Goreng</dc:nama>
+       <dc:harga>Rp 10.000</dc:harga>
+       <dc:review>5.0</dc:review>
+       <dc:reviewer>200</dc:reviewer>
+       <dc:description>Nasi Goreng yang terbuat dari beras pilihan, di pilih satu satu.
+       </dc:description>
+       <dc:image>https://i.ibb.co/tLZnpvg/nasigoreng.jpg</dc:image>
+    </rdf:Description>
+
+     <rdf:Description rdf:about="https://www.POLES.com/menu/makanan/Mieaceh">
+       <dc:nama>Mie Aceh</dc:nama>
+       <dc:harga>Rp 15.000</dc:harga>
+       <dc:review>5.0</dc:review>
+       <dc:reviewer>80</dc:reviewer>
+       <dc:description>bumbu mie yang berhasal langsung dari aceh, dan memiliki bahan bahan rahasia
+       </dc:description>
+       <dc:image>https://i.ibb.co/BrgvqY3/mieaceh.jpg</dc:image>
+       
+    </rdf:Description>
+    
+
+     <rdf:Description rdf:about="https://www.POLES.com/menu/makanan/ayamgeprek">
+       <dc:nama>Ayam Geprek</dc:nama>
+       <dc:harga>Rp 5.000</dc:harga>
+       <dc:review>4.0</dc:review>
+       <dc:reviewer>50</dc:reviewer>
+       <dc:description>Ayam Geprek, ayam yang sangat enak dan dimasak secara pas, dengan tingkat kepedasan 100 cabai
+       </dc:description>
+       <dc:image>https://i.ibb.co/R2LH7KN/ayamgeprek.jpg</dc:image>
+    </rdf:Description>
+
+
+
+    <rdf:Description rdf:about="https://www.POLES.com/menu/Minuman/Tehmanis">
+       <dc:nama>Teh Manis</dc:nama>
+       <dc:harga>Rp 8.000</dc:harga>
+       <dc:review>5.0</dc:review>
+       <dc:reviewer>200</dc:reviewer>
+       <dc:description>Teh manis yang enak
+       </dc:description>
+       https://i.ibb.co/wpXny5j/ES-TEH-MANIS-20200921062019.jpg
+       <dc:image>https://i.ibb.co/wpXny5j/ES-TEH-MANIS-20200921062019.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.POLES.com/menu/Minuman/TehTarik">
+       <dc:nama>Teh Tarik</dc:nama>
+       <dc:harga>Rp 10.000</dc:harga>
+       <dc:review>4.0</dc:review>
+       <dc:reviewer>100</dc:reviewer>
+       <dc:description>Teh tari yang di tarik
+       </dc:description>
+       <dc:image>https://i.ibb.co/ZMJy1pH/tehtarik.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.POLES.com/menu/Minuman/Nutrisari">
+       <dc:nama>Nutrisari</dc:nama>
+       <dc:harga>Rp 10.000</dc:harga>
+       <dc:review>4.0</dc:review>
+       <dc:reviewer>100</dc:reviewer>
+       <dc:description>Nutrisari rasa jeruk
+       </dc:description>
+       <dc:image>https://i.ibb.co/TWSXs54/nutrisari.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.POLES.com/menu/Minuman/kopihitam">
+       <dc:nama>Kopi Hitam</dc:nama>
+       <dc:harga>Rp 10.000</dc:harga>
+       <dc:review>4.5</dc:review>
+       <dc:reviewer>20</dc:reviewer>
+       <dc:description>Kopi hitam yang di racik oleh barista terkenal
+       </dc:description>
+       <dc:image>https://i.ibb.co/f4cXW82/kopi.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.POLES.com/menu/paket/paket1">
+        <dc:paket rdf:resource="https://www.POLES.com/menu/makanan/satekambing"/>
+        <dc:paket rdf:resource="https://www.POLES.com/menu/Minuman/Tehmanis"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.POLES.com/menu/paket/paket2">
+        <dc:paket rdf:resource="https://www.POLES.com/menu/makanan/ayamgeprek"/>
+        <dc:paket rdf:resource="https://www.POLES.com/menu/Minuman/TehTarik"/>    
+    </rdf:Description>
+
+      <rdf:Description rdf:about="https://www.POLES.com/menu/paket/paket3">
+        <dc:paket rdf:resource="https://www.POLES.com/menu/makanan/Mieaceh"/>
+        <dc:paket rdf:resource="https://www.POLES.com/menu/Minuman/Nutrisari"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.POLES.com/menu/paket/paket4">
+        <dc:paket rdf:resource="https://www.POLES.com/menu/makanan/NasiGoreng"/>
+        <dc:paket rdf:resource="https://www.POLES.com/menu/Minuman/Nutrisari"/> 
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/about-us/">
+        <foaf:crew rdf:resource="https://www.foyafoya.com/about-us/tamir" />
+        <foaf:crew rdf:resource="https://www.foyafoya.com/about-us/tedi" />
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/about-us/tamara">
+        <foaf:name>Tamir Rusydi Hega</foaf:name>
+        <foaf:nick>Tamara</foaf:nick>
+        <foaf:nim>201401069</foaf:nim>
+        <foaf:img>https://i.ibb.co/P1sr6dy/Whats-App-Image-2021-12-14-at-2-28-12-AM.jpg</foaf:img>
+        <dc:quote>Marilah berfoya-foya bersamaku</dc:quote>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.foyafoya.com/about-us/aldo">
+        <foaf:name>Yoristedi Prayoga</foaf:name>
+        <foaf:nick>tedi</foaf:nick>
+        <foaf:nim>201401080</foaf:nim>
+        <foaf:img>https://i.ibb.co/HpQ38j6/Whats-App-Image-2021-12-14-at-2-28-05-AM.jpg</foaf:img>
+        <dc:quote>Valorant kuy</dc:quote>
+    </rdf:Description>
+
+
+
+
+</rdf:RDF>
