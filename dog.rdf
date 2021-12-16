@@ -45,7 +45,7 @@
 	<rdf:Description
         rdf:about="https://en.wikipedia.org/wiki/Bernese_Mountain_Dog">
         <foaf:name>Caca</foaf:name>
-		<foaf:breed>Bernese Mountain Dog</foaf:breed>
+		<efo:breed>Bernese Mountain Dog</efo:breed>
 		<foaf:gender>Betina</foaf:gender>
 		<efo:id>2376373SE</efo:id>
         <dc:description>Ras anjing besar ini memiliki kecerdasan, sikap santai, dan kesetiaan yang baik. Badannya yang cukup besar untuk menopang berat orang dewasa yang membutuhkan bantuan untuk bangun. Jenis ini juga cukup kuat untuk menarik kursi roda keluar dari situasi sulit, Bernese Mountain Dogs juga dapat diajari mengambil dan membawa barang.</dc:description>
