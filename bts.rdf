@@ -1,0 +1,60 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:foaf="http://xmlns.com/foaf/spec/">
+
+    <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-rm/">
+        <foaf:name>Kim Namjoon</foaf:name>
+        <foaf:familyName>Kim</foaf:familyName>
+        <foaf:nick>RM</foaf:nick>
+        <foaf:member>BTS</foaf:member>
+        <foaf:birthday>12 September 1994</foaf:birthday>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-jin/">
+        <foaf:name>Kim Seok Jin</foaf:name>
+        <foaf:familyName>Kim</foaf:familyName>
+        <foaf:nick>Jin</foaf:nick>
+        <foaf:member>BTS</foaf:member>
+        <foaf:birthday>4 Desember 1992</foaf:birthday>
+    </rdf:Description>    
+
+    <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-suga/">
+        <foaf:name>Min Yoon Gi</foaf:name>
+        <foaf:familyName>Min</foaf:familyName>
+        <foaf:nick>Suga</foaf:nick>
+        <foaf:member>BTS</foaf:member>
+        <foaf:birthday>9 Maret 1993</foaf:birthday>
+    </rdf:Description>    
+
+    <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-j-hope/">
+        <foaf:name>Jung Ho Seok</foaf:name>
+        <foaf:familyName>Jung</foaf:familyName>
+        <foaf:nick>J-Hope</foaf:nick>
+        <foaf:member>BTS</foaf:member>
+        <foaf:birthday>18 Februari 1994</foaf:birthday>
+    </rdf:Description>    
+
+    <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-jimin/">
+        <foaf:name>Park Ji Min</foaf:name>
+        <foaf:familyName>Park</foaf:familyName>
+        <foaf:nick>Jimin</foaf:nick>
+        <foaf:member>BTS</foaf:member>
+        <foaf:birthday>13 Oktober 1995</foaf:birthday>
+    </rdf:Description>    
+
+    <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-v/">
+        <foaf:name>Kim Tae Hyung</foaf:name>
+        <foaf:familyName>Kim</foaf:familyName>
+        <foaf:nick>V</foaf:nick>
+        <foaf:member>BTS</foaf:member>
+        <foaf:birthday>30 Desember 1995</foaf:birthday>
+    </rdf:Description>    
+    
+    <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-jungkook/">
+        <foaf:name>Jeon Jeong-Guk</foaf:name>
+        <foaf:familyName>Jeon</foaf:familyName>
+        <foaf:nick>Jungkook</foaf:nick>
+        <foaf:member>BTS</foaf:member>
+        <foaf:birthday>1 September 1997</foaf:birthday>
+    </rdf:Description>    
+
+</rdf:RDF>
